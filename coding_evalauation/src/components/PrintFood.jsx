@@ -68,8 +68,8 @@ export const PrintFood = (food) => {
     <div>
         <div className="input">
             <Food getData = {handleData}/>
-            <button onClick={()=>setPage(page-1)}>Prev</button>
-            <button onClick={()=>setPage(page+1)}>Next</button>
+            <button  disabled={page === 1} onClick={()=>setPage(page-1)}>Prev</button>
+            <button style={{margin:"1% 0% 2% 2%"}} onClick={()=>setPage(page+1)}>Next</button>
         </div>
         <div>
                 

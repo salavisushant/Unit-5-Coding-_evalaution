@@ -21,4 +21,10 @@
 
 button{
     width:10%;
+    height:30px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+
 }
