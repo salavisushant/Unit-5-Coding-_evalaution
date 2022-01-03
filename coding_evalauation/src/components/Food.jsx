@@ -55,7 +55,7 @@ export const Food = ({getData}) => {
             name="image"
             ref={fileRef}
             ></input>
-        <input type="submit" name="Submit"/>
+        <input className="button" type="submit" name="Submit"/>
         
         </form>
         

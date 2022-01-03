@@ -10,3 +10,13 @@ h3{
     border-top: 2px solid red;
     margin-top: 3%;
 }
+
+button{
+    width:10%;
+    height:30px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+
+}
