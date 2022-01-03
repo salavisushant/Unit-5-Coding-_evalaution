@@ -1,0 +1,24 @@
+.print {
+   border: 2px solid red;
+}
+
+.input > Form {
+    width: 30%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: auto;
+    border:2px solid black;
+    grid-gap: 3px;
+    text-align: center;
+    margin-left: 35%;
+}
+
+
+/* .input > Form > button {
+    width: 10%;
+
+} */
+
+button{
+    width:10%;
+}

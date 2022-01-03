@@ -1,0 +1,12 @@
+.foodList>img{
+    width:50%;
+    height:300px;
+}
+
+h3{
+    color:blueviolet;
+}
+.foodList{
+    border-top: 2px solid red;
+    margin-top: 3%;
+}

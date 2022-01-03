@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nanoid": "^3.1.30"
+  }
+}
